@@ -1,5 +1,4 @@
 # saliford-motors-project
-Providing data-driven suggestions for HR
 This project was developed as part of the **Google Advanced Data Analytics Course – Capstone Project (Course 7)**.  
 The dataset used, `HR_capstone_dataset.csv`, is also provided through the course.
 
